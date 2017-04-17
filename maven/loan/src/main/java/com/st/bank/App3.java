@@ -1,9 +1,11 @@
 public static void Withdraw{
 
-int bal = 10;
+double amount;
+int total_balance;
+int bal = 10000;
 public static void main (String args[]){
 
-System.out.println("Deposit:bal");
+System.out.println("TotalBalance:"+total_balance);
 
 
 
